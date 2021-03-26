@@ -1,0 +1,29 @@
+body {
+    background-color: $back-black;
+    color: $color-main-white;
+}
+
+main {
+    position: relative;
+
+    .container {
+        width: 95%;
+        max-width: 1140px;
+        margin: 0 auto;
+        height: 100%;
+        position: relative;
+    }
+}
+
+
+
+@media (max-width: 1360px) {}
+
+
+@media (max-width: 1200px) {}
+
+@media (max-width: 1050px) {}
+
+@media (max-width: 768px) {}
+
+@media (max-width: 480px) {}
